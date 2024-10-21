@@ -22,6 +22,7 @@ public class Main {
         System.out.println("HussHussHuss");
         System.out.println("Welcome to our merge project");
         System.out.println("1");
+        System.out.println("2");
 
     }
 }
