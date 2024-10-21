@@ -14,8 +14,7 @@ public class Main {
         }
         System.out.println("Hello Huss!");
         System.out.println("Hello Muzaffer");
-        System.out.println("Im very tall");
-        System.out.println("Poop");
-        System.out.println("My name is hussain this is my third line");
+        System.out.println("How are you today?");
+        System.out.println("I hope you are doing well");
     }
 }
