@@ -17,5 +17,6 @@ public class Main {
         System.out.println("How are you today?");
         System.out.println("I hope you are doing well");
         System.out.println("Wassup!");
+        System.out.println("Dude WTF!");
     }
 }
