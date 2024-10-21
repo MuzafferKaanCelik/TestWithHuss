@@ -20,5 +20,6 @@ public class Main {
         System.out.println("Dude WTF!");
         System.out.println("Please respond!");
         System.out.println("HussHussHuss");
+        System.out.println("Welcome to our merge project");
     }
 }
