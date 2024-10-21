@@ -21,6 +21,10 @@ public class Main {
         System.out.println("Please respond!");
         System.out.println("HussHussHuss");
         System.out.println("Welcome to our merge project");
+        System.out.println("1");
+        System.out.println("2");
+        System.out.println("3");
+
         System.out.println("This is my first line- huss");
         System.out.println("This is my second line - huss");
     }
