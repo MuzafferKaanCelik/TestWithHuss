@@ -16,5 +16,6 @@ public class Main {
         System.out.println("Hello Muzaffer");
         System.out.println("How are you today?");
         System.out.println("I hope you are doing well");
+        System.out.println("Test af linje");
     }
 }
